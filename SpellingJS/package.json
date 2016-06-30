@@ -1,0 +1,10 @@
+{
+  "name": "spellingjs",
+  "version": "1.0.0",
+  "description": "Spellchecker inspired by Peter Norvig",
+  "main": "spelling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Buis",
+}

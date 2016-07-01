@@ -1,10 +1,10 @@
-Main program in test.js
+#Main program in test.js
 
-test.js requires module in piglatin.js
-piglatin.js requires modules str.js and char.js
-str.js depends on char.js
+test.js requires module in piglatin.js  
+piglatin.js requires modules str.js and char.js  
+str.js depends on char.js  
 
-Assignment:
+##Assignment:  
 1. Run "wc -l *.js" in project directory, noting total lines of code
 2. Run "node test.js | tee test0.txt" to save output of program as given to you.
 3. Rewrite isCapitalized(), startsWithVowel(), firstIndexOf(), and indexOfFirstVowel in str.js to use regular expressions
